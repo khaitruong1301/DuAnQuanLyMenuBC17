@@ -7,3 +7,7 @@ function featureA () {
 function feature2A() {
     console.log('hello ahihi');
 }
+
+function testA() {
+    console.log('testA');
+}
