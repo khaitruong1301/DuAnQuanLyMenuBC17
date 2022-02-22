@@ -4,3 +4,7 @@ function featureA () {
     console.log('dev B fix bug');
 
 }
+
+function testA() {
+    console.log('testA');
+}
