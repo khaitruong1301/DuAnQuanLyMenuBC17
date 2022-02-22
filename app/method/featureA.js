@@ -4,3 +4,8 @@ function featureA () {
     console.log('dev B fix bug');
 
 }
+
+
+function feature2A() {
+    console.log('hello ahihi');
+}
